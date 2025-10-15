@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kontak - Layout Sederhana</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        <h1>Layout Sederhana</h1>
+      </header>
+
+      <nav>
+        <a href="home.html">Home</a>
+        <a href="artikel.html">Artikel</a>
+        <a href="about.html">About</a>
+        <a href="kontak.html" class="active">Kontak</a>
+      </nav>
+
+      <section id="hero">
+        <h1>Hubungi Kami</h1>
+        <p>
+          Silakan isi form di bawah ini untuk mengirim pesan atau pertanyaan
+          Anda.
+        </p>
+      </section>
+
+      <section id="wrapper">
+        <section id="main">
+          <form action="#" method="post">
+            <p>
+              <label>Nama:</label><br />
+              <input
+                type="text"
+                name="nama"
+                style="width: 100%; padding: 10px; margin-top: 5px"
+                required
+              />
+            </p>
+            <p>
+              <label>Email:</label><br />
+              <input
+                type="email"
+                name="email"
+                style="width: 100%; padding: 10px; margin-top: 5px"
+                required
+              />
+            </p>
+            <p>
+              <label>Pesan:</label><br />
+              <textarea
+                name="pesan"
+                rows="5"
+                style="width: 100%; padding: 10px; margin-top: 5px"
+                required
+              ></textarea>
+            </p>
+            <p>
+              <button
+                type="submit"
+                style="
+                  padding: 10px 20px;
+                  background-color: #1f5faa;
+                  color: #fff;
+                  border: none;
+                  border-radius: 5px;
+                  cursor: pointer;
+                "
+              >
+                Kirim
+              </button>
+            </p>
+          </form>
+        </section>
+
+        <aside id="sidebar">
+          <div class="widget-box">
+            <div class="title">Alamat Kami</div>
+            <p>
+              Universitas Pelita Bangsa<br />Jl. Raya Cikarang - Cibarusah
+              No.168<br />Bekasi, Jawa Barat
+            </p>
+          </div>
+        </aside>
+      </section>
+
+      <footer>
+        <p>&copy; 2025 - Universitas Pelita Bangsa</p>
+      </footer>
+    </div>
+  </body>
+</html>
