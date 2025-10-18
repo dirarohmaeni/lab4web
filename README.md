@@ -12,4 +12,8 @@ Pertanyaan dan Tugas
 
 Jawab
 
+1. <img src ="/hasil about.png" width="500">
+
+2. <img src ="/hasil kontak.png" width="500">
+
 
