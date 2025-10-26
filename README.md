@@ -1707,6 +1707,7 @@ Lalu buka Browser untuk melihat hasilnya
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/about/hasil%20about.png)
 
 2. Buat file baru dengan nama kontak.html dan tulis kode berikut
 ```html
@@ -1821,4 +1822,4 @@ Lalu buka Browser untuk melihat hasilnya
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
-
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/contact/hasil%20kontak.png)
