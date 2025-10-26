@@ -22,6 +22,7 @@
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/BOX/image1.png)
 
 2. Membuat Box Element
    Kemudian tambahkan kode untuk membuat box element dengan tag div
@@ -47,6 +48,7 @@ Lalu buka Browser untuk melihat hasilnya
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/BOX/image2.png)
 
 3. CSS Float Property
    Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element,
@@ -88,6 +90,7 @@ Lalu buka Browser untuk melihat hasilnya
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/BOX/image3.png)
 
 4. Mengatur Clearfix Element
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk
@@ -131,10 +134,9 @@ Tambahkan element div lainnya seteleah div3
   </body>
 </html>
 ```
-Lalu buka Browser untuk melihat hasilnya
 
 5. Kemudian atur property clear pada CSS,
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -176,9 +178,17 @@ Lalu buka Browser untuk melihat hasilnya
     </style>
   </body>
 </html>
+```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/BOX/image4.png)
 
+6. Both
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/BOX/H-both.png)
 
+7. Right
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/BOX/H-right.png)
+
+# Membuat Layout Sederhana
 1. Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
 home.html, dan file css dengan nama style.css.
 ```html
