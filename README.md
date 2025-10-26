@@ -22,6 +22,7 @@
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/HOME/HASIL1-home.png)
 
 2. Membuat Box Element
    Kemudian tambahkan kode untuk membuat box element dengan tag div
@@ -47,6 +48,7 @@ Lalu buka Browser untuk melihat hasilnya
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%201.png)
 
 3. CSS Float Property
    Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element,
