@@ -22,7 +22,6 @@
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
-![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/HOME/HASIL1-home.png)
 
 2. Membuat Box Element
    Kemudian tambahkan kode untuk membuat box element dengan tag div
@@ -48,7 +47,6 @@ Lalu buka Browser untuk melihat hasilnya
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
-![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%201.png)
 
 3. CSS Float Property
    Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element,
@@ -230,6 +228,7 @@ home.html, dan file css dengan nama style.css.
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/HOME/HASIL1-home.png)
 
 3. Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```css
@@ -269,6 +268,7 @@ header h1 {
 }
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%201.png)
 
 4. Kemudian selanjutnya mengatur navigasi.
 ```css
@@ -326,6 +326,8 @@ nav a:hover {
 }
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%202.png)
+
 
 5. Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS
 ### html
@@ -444,7 +446,7 @@ nav a:hover {
 }
 ```
 Lalu buka Browser untuk melihat hasilnya
-
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%203.png)
 
 6. Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 ```css
@@ -728,6 +730,7 @@ nav a:hover {
 }
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%204.png)
 
 7. Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 ```css
@@ -935,6 +938,7 @@ footer {
 </html>
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%205.png)
 
 8. Menambahkan Elemen lainnya pada Main Content
 ```html
@@ -1223,6 +1227,7 @@ footer {
 }
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%206.png)
 
 9. Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ```html
@@ -1581,6 +1586,7 @@ footer {
 }
 ```
 Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab4web/blob/63339edbea263ad581902edabc18be4cb22be5a4/lab4/CSS/HASIL%207.png)
 
 10.      
 
