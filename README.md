@@ -3,7 +3,7 @@
 ### Kelas: TI.24.A5
 
 # Praktikum 4: CSS Layout
-# Langkah-langkah Praktikum
+### Langkah-langkah Praktikum
 
 1. Buat dokumen HTML dengan nama file lab4_box.html
 ```html
